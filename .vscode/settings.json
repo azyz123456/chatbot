@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/70352dad-e0fa-4954-a69a-9a1335655fd7/resourceGroups/WebBrowser/providers/Microsoft.Web/sites/Edithchatbot",
+    "appService.deploySubpath": "."
+}
